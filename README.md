@@ -23,6 +23,8 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 ## Program
 NAME : AJAYRAJA RATHINAM T
+
+
 REG NO : 212224240006
 ```
 import cv2
