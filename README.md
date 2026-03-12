@@ -24,7 +24,6 @@ Use Otsu's method to segment the image and display the results.
 ## Program
 NAME : AJAYRAJA RATHINAM T
 
-
 REG NO : 212224240006
 ```
 import cv2
@@ -32,7 +31,7 @@ import matplotlib.pyplot as plt
 
 # Read the Image and convert to grayscale
 
-image=cv2.imread('VI.jpeg')
+image=cv2.imread('me.jpeg')
 gray_img=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 # Original image
